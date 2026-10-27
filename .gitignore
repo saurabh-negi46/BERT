@@ -1,0 +1,16 @@
+# Large training data
+bert_token_sequences.jsonl
+fineweb_edu.jsonl
+fineweb_edu_clean.jsonl
+
+# Training outputs
+checkpoints/
+kaggle_submission/cloud_output/
+
+# Temporary Kaggle pull used for inspection
+kaggle_remote_check/
+
+# Notebook and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]

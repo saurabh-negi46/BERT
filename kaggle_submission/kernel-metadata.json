@@ -1,0 +1,18 @@
+{
+  "id": "negi69/bert-base-from-scratch-with-pytorch",
+  "title": "BERT-BASE from Scratch with PyTorch",
+  "code_file": "train_bert_base_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "false",
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "negi69/bert-token-sequences",
+    "negi69/bert-tokenizer"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
